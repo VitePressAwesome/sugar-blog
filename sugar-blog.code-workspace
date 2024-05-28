@@ -71,10 +71,10 @@
 			}
 		],
 		"workbench.colorCustomizations": {
-			"statusBar.background": "#697fe9",
+			"statusBar.background": "#5b937b",
 			"statusBar.foreground": "#ffffff",
-			"tab.activeBorder": "#697fe9",
-			"sideBarTitle.foreground": "#697fe9"
+			"tab.activeBorder": "#5b937b",
+			"sideBarTitle.foreground": "#5b937b"
 		}
 	}
 }
