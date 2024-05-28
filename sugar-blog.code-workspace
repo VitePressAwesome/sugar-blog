@@ -1,0 +1,80 @@
+{
+	"folders": [
+		{
+			"name": "🌱  sugar-wiki-monorepo",
+			"path": "."
+		},
+		{
+			"name": "🍀  blogpress",
+			"path": "packages/blogpress"
+		},
+		{
+			"name": "🍀  @sugarat/create-theme",
+			"path": "packages/create-theme"
+		},
+		{
+			"name": "🍀  @sugarat/theme",
+			"path": "packages/theme"
+		},
+		{
+			"name": "🍀  vitepress-plugin-pagefind",
+			"path": "packages/vitepress-plugin-pagefind"
+		},
+		{
+			"name": "🍀  vitepress-plugin-rss",
+			"path": "packages/vitepress-plugin-rss"
+		}
+	],
+	"settings": {
+		"ColorfulMonorepo.workspaces.collection": [
+			{
+				"path": "c:\\AppData\\code-vPress\\sugar-blog",
+				"packageName": "sugar-wiki-monorepo",
+				"label": "🌱  sugar-wiki-monorepo",
+				"foreground": "#ffffff",
+				"background": "#697fe9"
+			},
+			{
+				"path": "c:\\AppData\\code-vPress\\sugar-blog\\packages\\blogpress",
+				"packageName": "blogpress",
+				"label": "🍀  blogpress",
+				"foreground": "#ffffff",
+				"background": "#5b937b"
+			},
+			{
+				"path": "c:\\AppData\\code-vPress\\sugar-blog\\packages\\create-theme",
+				"packageName": "@sugarat/create-theme",
+				"label": "🍀  @sugarat/create-theme",
+				"foreground": "#000000",
+				"background": "#dadaf4"
+			},
+			{
+				"path": "c:\\AppData\\code-vPress\\sugar-blog\\packages\\theme",
+				"packageName": "@sugarat/theme",
+				"label": "🍀  @sugarat/theme",
+				"foreground": "#000000",
+				"background": "#cdb675"
+			},
+			{
+				"path": "c:\\AppData\\code-vPress\\sugar-blog\\packages\\vitepress-plugin-pagefind",
+				"packageName": "vitepress-plugin-pagefind",
+				"label": "🍀  vitepress-plugin-pagefind",
+				"foreground": "#000000",
+				"background": "#f4c172"
+			},
+			{
+				"path": "c:\\AppData\\code-vPress\\sugar-blog\\packages\\vitepress-plugin-rss",
+				"packageName": "vitepress-plugin-rss",
+				"label": "🍀  vitepress-plugin-rss",
+				"foreground": "#000000",
+				"background": "#63e642"
+			}
+		],
+		"workbench.colorCustomizations": {
+			"statusBar.background": "#697fe9",
+			"statusBar.foreground": "#ffffff",
+			"tab.activeBorder": "#697fe9",
+			"sideBarTitle.foreground": "#697fe9"
+		}
+	}
+}
