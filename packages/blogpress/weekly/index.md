@@ -14,7 +14,9 @@ hidden: true
 
 <!-- TODO：自动生成可翻页目录 -->
 ## 2024
-* [技术视野周刊第90期](./2024-07-07.md)
+* [技术视野周刊第93期](./2024-07-21.md)
+* [技术视野周刊第92期](./2024-07-14.md)
+* [技术视野周刊第91期](./2024-07-07.md)
 * [技术视野周刊第90期](./2024-06-30.md)
 * [技术视野周刊第89期](./2024-06-23.md)
 * [技术视野周刊第88期](./2024-06-16.md)
@@ -118,9 +120,9 @@ hidden: true
 * [FRE123 技术周刊精选](https://www.fre123.com/weekly) - 前后端技术周刊精选推荐信息流
 * [云谦：MDH 前端周刊](https://sorrycc.com/mdh/) - 前端资讯和分享
   * [（旧）云谦：MDH 前端周刊](https://mdhweekly.com/) - 前端资讯和分享
+* [童欧巴：前端食堂](https://github.com/Geekhyt/weekly) - 你的前端食堂，吃好每一顿饭
 
 :::details 已停更
-* [童欧巴：前端食堂](https://github.com/Geekhyt/weekly) - 你的前端食堂，吃好每一顿饭
 * [知识星球：咲奈的平行时空](https://wx.zsxq.com/dweb2/index/group/15552285284822) - 前端前沿技术、资讯、方法论分享
 * [省流](https://shengliu.tech/) - 有关行业📱、代码👨‍💻、科研🔬的有趣内容，每个工作日更新
 * [rottenpen：FE News](https://rottenpen.zhubai.love/) - 分享前端，生活
